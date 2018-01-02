@@ -1,0 +1,1 @@
+pyinstaller --onefile --noconsole --icon=WH_Icon256.ico --name=shotgunTowormhole.exe shotgunTowormhole.py
